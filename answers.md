@@ -79,3 +79,41 @@ Untracked files:
 	answers.md
 
 Answer 6
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	new file:   README.md
+	new file:   answers.md
+
+Answer 7
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   answers.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Answer 8
+commit 3bd7df02d973ab82a01b84607e253072039724c4
+Author: GLY3 <jy605421@ohio.edu>
+Date:   Fri Sep 9 11:10:57 2022 -0400
+
+    Initial commit
+Answer 9
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   answers.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Answer 10
