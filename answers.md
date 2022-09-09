@@ -117,3 +117,14 @@ Changes not staged for commit:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 Answer 10
+Email: jy605421@ohio.edu
+Answers are recorded in answers.md 
+Class: CS 2400 section 107
+Answer 11
+Everything up-to-date
+Answer 12
+Already up to date.
+Answer 13
+drwxr-xr-x   - jy  9 Sep 11:31  .git
+.rw-r--r-- 270 jy  9 Sep 11:30  .gitignore
+.rw-r--r--  11 jy  9 Sep 11:30  README.md
